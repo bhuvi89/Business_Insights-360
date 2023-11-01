@@ -14,7 +14,6 @@ Welcome to the Business Insight 360 project! This visualization is all about unc
 - Dive deep into Profit and Loss statements.
 - Analyze Net Sales Performance over time.
 - Examine top-performing Products and Customers using various criteria.
-- Create KPIs 
 
  **Sales View:**
 - Analyze the performance of Customers and Products.
@@ -36,3 +35,13 @@ Welcome to the Business Insight 360 project! This visualization is all about unc
 - Gain strategic insights into market share trends.
 - Identify the top 5 customers and products by revenue.
 - Build yearly trend by revenue, Gross Margin percentage, Net Profit percentage and PC Market Share percentage.
+
+ ## Technical Skills :
+ - Connecting to various data sources, such as databases, Excel.
+ - Data cleansing, transformation, and shaping using Power Query Editor.
+ - Creating relationships between tables.
+ - Defining calculated columns and measures.
+ - Understanding DAX (Data Analysis Expressions) language for custom calculations.
+ - Creating interactive visualizations.
+ - Utilizing custom visuals and custom themes.
+ - Creating KPIs.
